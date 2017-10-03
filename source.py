@@ -1,3 +1,3 @@
 import sys
-import lib
+#import lib
 print "file 1"
